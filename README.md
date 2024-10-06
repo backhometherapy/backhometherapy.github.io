@@ -1,2 +1,2 @@
-# backhometherapy.life.github.io
+# backhometherapy.github.io
 Website
